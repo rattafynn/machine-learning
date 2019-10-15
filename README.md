@@ -1,3 +1,5 @@
+Kaggle Competition
+
 (i) This is my first machine learning script for predicting house prices based on housing dataset information from Ames, Iowa. The training dataset (train.csv) contains 79 features (predictor variables) and one response variable (SalePrice); the test dataset (test.csv) contains 79 features (just as in the training dataset). The goal of the project is to use simple and advanced machine learning modeling techniques to make house price predictions using the test data set. 
 
 (ii) Download the Jupyter notebook (my_first_ML.ipynb) and the test dataset (test.csv) and the training dataset (train.csv) and run the notebook; it will produce four submission files (predicted house prices using the test dataset); these are the files that I submitted to Kaggle. 
